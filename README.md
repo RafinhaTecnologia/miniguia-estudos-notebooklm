@@ -6,7 +6,9 @@ Este repositório apresenta o desenvolvimento de um Caderno Temático inteligent
 
 ## 🎯 1. Contexto e Objetivos
 
-* **Assunto Escolhido:** Modelagem de Dados Relacional, Arquitetura de Bancos de Dados e Linguagem SQL (com foco prático no desenvolvimento de sistemas de gestão empresarial, como o *Rafinha Tecnologia*).
+Como estudante no início da graduação em desenvolvimento de software — conciliando lógica de programação, fluxogramas e os primeiros conceitos de modelagem (Entidades, Atributos, MER/DER) —, o desafio central não foi apenas absorver teoria isolada. O objetivo foi construir uma base sólida de engenharia de dados capaz de ser aplicada diretamente no desenvolvimento de sistemas back-end e full-stack (com foco em linguagens como C# e Python) para projetos reais, como o *Rafinha Tecnologia*.
+
+* **Assunto Escolhido:** Modelagem de Dados Relacional, Arquitetura de Bancos de Dados e Linguagem SQL.
 * **Objetivos de Estudo:** 
   * Compreender os fundamentos teóricos e práticos de modelagem de dados (Entidades, Atributos, Relacionamentos, MER/DER).
   * Aprender a estruturação lógica e física de tabelas relacionais, aplicando com rigor Chaves Primárias (PK) e Estrangeiras (FK).
@@ -15,9 +17,13 @@ Este repositório apresenta o desenvolvimento de um Caderno Temático inteligent
 
 ---
 
-## 🔍 2. Curadoria de Fontes
+## 🧠 2. Metodologia e Curadoria Híbrida
 
-Fontes abertas e documentações técnicas selecionadas e carregadas no NotebookLM para fundamentar os estudos:
+Para alimentar o "cérebro" do NotebookLM de forma estratégica, adotamos uma curadoria híbrida:
+* **Padrão Global e Acadêmico:** Foram mantidas referências fundamentais de arquitetura de dados e documentações oficiais de grande peso no mercado (PostgreSQL, W3Schools, Stanford, etc.).
+* **Contextualização Nacional (Didática Local):** Foram integradas referências brasileiras de altíssima relevância técnica e didática (como canais voltados ao ecossistema C#/.NET e portais especializados), unindo a rigorosa teoria acadêmica à realidade prática de mercado.
+
+Fontes abertas e documentações técnicas carregadas no NotebookLM:
 
 | # | Título | Tipo | Link / Referência |
 |---|--------|------|-------------------|
@@ -31,19 +37,17 @@ Fontes abertas e documentações técnicas selecionadas e carregadas no Notebook
 
 ## ⚙️ 3. Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
 
-Durante a construção do ambiente de estudos no NotebookLM, foram testadas diferentes abordagens de prompts para garantir que a IA atuasse estritamente como um professor sênior de engenharia de dados, sem dispersar para áreas de lógica de programação pura ou front-end.
-
-### 🔄 Evolução e Testes de Prompts
-
-* **Prompt Inicial (Genérico):** Focava excessivamente em lógica genérica e linguagens de back-end (C#/Python), o que gerava desvios do núcleo central em bancos de dados.
-* **Prompt Ajustado (Definitivo):** O prompt foi refinado e fixado nas instruções do notebook para isolar o ecossistema de dados, exigindo rigor técnico, modelagem voltada a negócios reais (restaurantes e lojas) e obrigatoriedade de citação nas respostas da IA.
+Para extrair o máximo de utilidade de uma IA configurada como um "Professor Particular", o conjunto de instruções passou por refinamentos cruciais:
+* **Foco Exclusivo em Dados:** O escopo inicial foi blindado para evitar dispersões com front-end ou lógica genérica, centralizando o aprendizado em arquitetura de dados, modelagem relacional, SQL e integração com o back-end.
+* **Contextualização com Negócios Reais:** Exigiu-se que os conceitos abstratos fossem explicados com base na realidade de sistemas de gestão empresarial (ex: controle de comandas para restaurantes, gestão de estoque para lojas de roupas).
+* **Rigor de Citação:** Diretriz obrigatória exigindo referências cruzadas e citações diretas das fontes inseridas no notebook.
 
 > **Exemplo de Prompt Utilizado no NotebookLM:**
 > *"Atue como um Professor Sênior de Engenharia de Dados e Bancos de Dados particular. Meu objetivo é dominar Banco de Dados do absoluto zero, absorvendo o máximo de conhecimento técnico e teórico das fontes fornecidas neste notebook. Explique com rigor técnico e didático como estruturar tabelas, normalização e transformar um diagrama (DER/MER) em um modelo físico relacional robusto."*
 
 ### 🛠️ Desafios Encontrados (Cicatrizes do Processo)
-* **Restrições de Importação por URL:** Diversos links web (como páginas do LeetCode, Beecrowd e biografias acadêmicas da ACM) apresentaram barreiras de segurança anti-bot ou restrições de fonte do NotebookLM (*"Não foi possível importar esta página da Web devido a restrições de fonte"*).
-* **Solução Adotada:** Substituição gradual das URLs problemáticas por documentações abertas em texto plano, guias oficiais de SQL compatíveis e priorização de materiais consolidados em PDF e referências acadêmicas diretas.
+* **Restrições de Importação por URL:** Diversos links web apresentaram barreiras de segurança anti-bot ou restrições de fonte do NotebookLM (*"Não foi possível importar esta página da Web devido a restrições de fonte"*).
+* **Solução Adotada:** Substituição gradual das URLs problemáticas por documentações abertas em texto plano, guias oficiais de SQL compatíveis e priorização de materiais estruturados em PDF e referências acadêmicas diretas.
 
 ---
 
