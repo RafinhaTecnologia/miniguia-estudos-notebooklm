@@ -76,8 +76,8 @@ CREATE TABLE Comanda (
 );
 ```
 ---
-##💬5 Relato da Jornada
-### Um texto simples sem ser gerado por IA pelo menos aqui para criar essa publicação, vamos lá kkk
+## 💬5 Relato da Jornada
+ ### Um texto simples sem ser gerado por IA pelo menos aqui para criar essa publicação, vamos lá kkk
 Então ignorem os erros ortográficos!!
 
 Hoje finalizei meu projeto de aprendizarem "Treinando uma IA de aprendizagem"
