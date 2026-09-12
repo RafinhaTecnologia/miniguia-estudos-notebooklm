@@ -74,3 +74,32 @@ CREATE TABLE Comanda (
     id_mesa INT NOT NULL,
     FOREIGN KEY (id_mesa) REFERENCES Mesa(id_mesa)
 );
+
+💬 Relato da Jornada
+Um texto simples sem ser gerado por IA pelo menos aqui para criar essa publicação, vamos lá kkk
+Então ignorem os erros ortográficos!!
+
+Hoje finalizei meu projeto de aprendizarem "Treinando uma IA de aprendizagem"
+
+Nessa jornada aprendi, ou melhor dizendo, conheci uma ferramenta que talvez ja seja "velha" ou "antiga" para quem é da área de programação e trabalha com IA etc..
+Mas pra mim foi como descobrir água no deserto!
+Estou muito feliz com essa descoberta, nesse projeto, eu adicionei 12 dos melhores livros sobre banco de dados na IA do notebookLM, assim alimentando ela de um vasto conhecimento, separei usando a IA "Gemini" os melhores canais do YouTube "mais visualizados" e mais "conceituados", alimentei como fontes para a ferramenta do projeto da IA.
+
+Bom, vou por meu rascunho aqui a baixo:
+
+Objetivo: Criar um "professor de banco de dados"
+
+Fontes: usando a ia separei as melhores, e claro, filtrei "humanamente" separei links quebrados, revisei e testei link por link.
+
+Livros: fiz um top 20 depois filtrei com um top 10.
+(Consegui todos em pdf para alimentar a ferramenta IA)
+Detalhe, lembrei da promoção (GRATUITA) para estudantes que eu já estava vinculado com o Gemini e assim dizendo, a ferramenta NotebookLM também estava na versão plus, dito isso, o notebookLM, tem um limite de 50 fontes para ser alimentada na IA, mas quem tem a versão plus, pode por 100 fontes, sendo elas fontes de sites, vídeos do youtube, pdf, textos etc...
+Mesmo o plano free, 50 fontes bem filtradas já é excelente!!
+Pois sendo de fontes confiáveis, sua IA não alucina com informações confusas, assim melhorando sua pesquisa!
+
+Obs: Sei que muita gente usa a IA de forma preguiçosa hoje em dia, mas conhecendo essa ferramenta, levei o dia todo para criar um (prompt quase perfeito), onde eu pude criar meu professor de banco de dados.
+Agora além de aprender e ter entregue o trabalho para o curso da Botcamp, obtive esse novo conhecimento da ferramenta, posso utilizar para fins acadêmicos.
+
+Vou utilizar no meu dia a dia, como um repositório de consultas, pois sou universitário da faculdade FATEC faculdade de tecnologia de Olímpia-sp.
+
+Com essa ferramenta de consulta, vou poder ampliar meus conhecimentos "obs: sou novato na área de programação, principalmente banco de dados" mas agora conforme os professores forem passando as matérias, utilizarei da ferramenta para a melhor absorção de conhecimento.
