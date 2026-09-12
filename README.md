@@ -104,3 +104,8 @@ Agora além de aprender e ter entregue o trabalho para o curso da Botcamp, obtiv
 Vou utilizar no meu dia a dia, como um repositório de consultas, pois sou universitário da faculdade FATEC faculdade de tecnologia de Olímpia-sp.
 
 Com essa ferramenta de consulta, vou poder ampliar meus conhecimentos "obs: sou novato na área de programação, principalmente banco de dados" mas agora conforme os professores forem passando as matérias, utilizarei da ferramenta para a melhor absorção de conhecimento.
+
+> **Muito obrigado pelo seu tempo, pois ele é a moeda mais valiosa que temos, agradeço por consumir desse trabalho feito com muito carinho e dedicação para quem tem interesse, me siga no GitHub e também no LinkedIn**
+
+> *[GitHub](https://github.com/RafinhaTecnologia)
+[Linkedin](https://www.linkedin.com/in/rafinhatecnologia/)*
