@@ -74,7 +74,7 @@ CREATE TABLE Comanda (
     id_mesa INT NOT NULL,
     FOREIGN KEY (id_mesa) REFERENCES Mesa(id_mesa)
 );
-
+```
 ---
 ##💬5 Relato da Jornada
 ### Um texto simples sem ser gerado por IA pelo menos aqui para criar essa publicação, vamos lá kkk
